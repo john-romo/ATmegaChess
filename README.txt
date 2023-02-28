@@ -1,7 +1,7 @@
 All code was written and created by John Romo. Even if you 
 wanted to sell it (which you don't) you can't.
 
-This will eventually be a chess engine small (and stupid)
+This will eventually be a chess engine small and simple
 enough to be run from an ATmega328P micro-controller.  So
 far, I have finished with the rules of chess and am just 
 starting to work on the engine.  Since school is super busy
