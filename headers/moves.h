@@ -1,7 +1,7 @@
 // moves.h
 
 #ifndef MOVES_H_
-#define MOVE_H_
+#define MOVES_H_
 
 #include <stdio.h>
 #include <stdint.h>
